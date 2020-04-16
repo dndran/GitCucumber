@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"programs","l":"First_Duplicate"},{"p":"programs","l":"FirstNonRepeatingChar"},{"p":"programs","l":"LongestSubstring"},{"p":"programs","l":"Remove_Vowels"},{"p":"programs","l":"SumIndices"},{"p":"programs","l":"SumOfArrays"},{"p":"programs","l":"ThreeSum"},{"p":"programs","l":"UniqueCharacters"}]
